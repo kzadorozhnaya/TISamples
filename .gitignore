@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CodingTasks/LinqInterviewExample/.vs/LinqInterviewExample/v16
+/CodingTasks/LinqInterviewExample/LinqInterviewExample/bin/Debug/netcoreapp3.1
+/CodingTasks/LinqInterviewExample/LinqInterviewExample/obj
